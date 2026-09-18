@@ -1,24 +1,53 @@
 ---
-title: 'DBCLS BioHackathon 2026 report: Template for the very long title'
-title_short: 'BioHackJP26: How we found breakfast'
+title: 'DBCLS BioHackathon 2026 report: Mass spectrometry data analysis workflow and visualization towards trans-omics research'
+title_short: 'BioHackJP26: MS data analysis workflow and visualization'
 tags:
-  - Semantic web
-  - Ontologies
-  - Workflows
+  - Mass spectrometry
+  - Proetome
+  - Metabolome
 authors:
-  - name: First Author
+  - name: Akiyasu C. Yoshizawa
+    orcid: 0000-0002-0870-5502
     affiliation: 1
-    role: Writing – original draft
-  - name: Last Author
-    orcid: 0000-0000-0000-0000
+    role: Conceptualization, Writing – original draft
+  - name: Yuki Moriya
+    orcid: 0000-0001-8195-5893
     affiliation: 2
-    role: Conceptualization, Writing – review & editing
+    role: Software, Visualization, Writing – original draft
+  - name: Kozo Nishida
+    orcid: 0000-0001-8501-7319
+    affiliation: 3
+    role: Software, Investigation, Writing – original draft
+  - name: Yushi Takahashi
+    orcid: 0000-0002-9194-6293
+    affiliation: 1
+    role: Software, Investigation, Methodology
+  - name: Satoshi Tanaka
+    orcid: 0000-0001-5266-0914
+    affiliation: 4
+    role: Software, Investigation
+  - name: Shin Kawano
+    orcid: 0000-0002-7969-2972
+    affiliation: 5 
+    role: Software, Conceptualization, Supervision
+  - name: Susumu Goto
+    orcid: 0000-0002-7969-2972
+    affiliation: 2
+    role: Conceptualization, Supervision, Project administration, Writing – original draft
 affiliations:
-  - name: First Affiliation
+  - name: Medical AI Center, Niigata University School of Medicine, Niigata, Japan
     index: 1
-  - name: ELIXIR Europe
-    ror: 044rwnt51
+  - name: Database Division for Life Science (DBCLS), BioData Science Initiative (BSI), National Institute of Genetics, Research Organization of Information and Systems, Chiba, Japan
+    ror: 
     index: 2
+  - name: RIKEN Center for Biosystems Dynamics Research, Kobe, Japan
+    ror: 
+    index: 3
+  - name: Trans-IT Co., Ltd., Mibu-machi, Tochigi, Japan
+    index: 4
+  - name: School of Frontier Engineering, Kitasato University, Sagamihara, Kanagawa, Japan
+    ror: 
+    index: 5
 date: 18 September 2026
 cito-bibliography: paper.bib
 event: BH26JP
@@ -30,7 +59,7 @@ group: MS-data
 git_url: https://github.com/biohackathon-japan/BH26-MS-data
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: First Author \emph{et al.}
+authors_short: Akiyasu C. Yoshizawa, Yuki Moriya \emph{et al.}
 ---
 
 
