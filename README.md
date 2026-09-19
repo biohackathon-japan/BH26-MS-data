@@ -134,3 +134,7 @@ affiliations:
   - name: For remaining affiliations see \url{https://github.com/project/etc} \vspace{0.2in}
     index: \*
 ```
+## License
+
+This report is licensed under the
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
