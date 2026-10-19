@@ -188,3 +188,16 @@ Third, we investigated the interoperability of MB-POST with the Metabolomics Hub
 Taken together, the work conducted during BioHackathon 2026 demonstrates that trans-omics research depends not only on new integration algorithms but also on coordinated improvements throughout the data lifecycle: preservation of raw data, standardized metadata, reproducible reanalysis, controlled error estimation, interoperable data models, and visualization of both processed results and primary evidence. The developments reported here do not yet constitute a complete trans-omics platform. However, they establish essential connections between proteomics, metaproteomics, and metabolomics resources and clarify the remaining technical and semantic challenges. Future work will focus on operating the redesigned jPOST workflow at substantially larger scale, expanding pathway- and taxonomy-aware visualization, completing the mapping of MB-POST metadata to international controlled vocabularies, and standardizing quantitative metabolomics results. These efforts should ultimately enable public MS datasets to be discovered, reanalyzed, compared, and integrated across omics layers, providing a more reliable foundation for mechanistic investigation of biological systems.
 
 
+# Funding
+
+The Life Science Database Integration Project (Database Integration Coordination Program) funded by the Office of the NBDC Program of the Japan Science and Technology Agency [18 063028, JPMJND2304, JPMJND2305, JPMJND2403 ]; JSPS Grant-in-Aid for Scientific Research (B) (KAKENHI) [JP25K03216].
+
+# Resource
+
+Mass++4 source code repository: 
+https://github.com/masspp/mspp4-desktop/
+Mass++4 quick manual: 
+https://github.com/masspp/quick_manual
+pymbpost resource: 
+https://github.com/kozo2/pymbpost/blob/main/mbpost_profiles.zip
+
