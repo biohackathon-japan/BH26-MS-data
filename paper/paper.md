@@ -190,7 +190,7 @@ Taken together, the work conducted during BioHackathon 2026 demonstrates that tr
 
 # Funding
 
-The Life Science Database Integration Project (Database Integration Coordination Program) funded by the Office of the NBDC Program of the Japan Science and Technology Agency [18 063028, JPMJND2304, JPMJND2305, JPMJND2403 ]; JSPS Grant-in-Aid for Scientific Research (B) (KAKENHI) [JP25K03216].
+The Life Science Database Integration Project (Database Integration Coordination Program) funded by the Office of the NBDC Program of the Japan Science and Technology Agency [18 063028, JPMJND2304, JPMJND2305, JPMJND2403]; JSPS Grant-in-Aid for Scientific Research (B) (KAKENHI) [JP25K03216].
 
 # Resource
 
