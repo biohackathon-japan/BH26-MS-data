@@ -108,7 +108,7 @@ These improvements primarily concern operational standardization and scalability
 
 ![jPOST data reanalysis workflow](./media/image1.png)
 
-# Metaproteome data visualization
+# Metaproteome data visualization in jPOST
 
 We developed and integrated a new set of visualizations that place metaproteome identifications in the context of metabolic pathways and the taxa contributing to them. The visualizations take as input the results of MetaPilot [@RN2190, RN1674], a metaproteome analysis software, in which PSMs are used to infer proteins from a sequence database derived from metagenome-assembled genomes (MAGs)  [@RN2191]. The MAG protein FASTA dataset has been functionally annotated using eggNOG-mapper ver.2 [@RN2192], and for each protein, fields from that output—such as the “EC number  [@RN2194],” “COG classification  [@RN2195],” and “eggNOG taxonomy [@RN2193]” indicating the source organism’s phylum—are utilized.
 
