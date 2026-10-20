@@ -194,7 +194,10 @@ The Life Science Database Integration Project (Database Integration Coordination
 
 # Resource
 
-- Mass++4 source code repository: https://github.com/masspp/mspp4-desktop/ \\newline
-- Mass++4 quick manual: https://github.com/masspp/quick_manual \\newline
-- pymbpost resource: https://github.com/kozo2/pymbpost/blob/main/mbpost_profiles.zip
+- Mass++4 source code repository:
+    - https://github.com/masspp/mspp4-desktop/
+- Mass++4 quick manual:
+    - https://github.com/masspp/quick_manual
+- pymbpost resource:
+    - https://github.com/kozo2/pymbpost/blob/main/mbpost_profiles.zip
 
